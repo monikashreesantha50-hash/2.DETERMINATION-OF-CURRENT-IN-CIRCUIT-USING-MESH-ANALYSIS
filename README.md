@@ -22,6 +22,8 @@
 
 **CIRCUIT DIAGRAM:**
 
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
